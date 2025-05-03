@@ -79,3 +79,8 @@ Property Management: Develop features for property listing creation, updates, an
 - Review System: Allowing users to leave reviews and ratings for properties.
 - Data Optimization: Ensuring efficient data retrieval and storage through database optimizations.
 🛠️ Features Overview
+
+## API Security
+- Authentication
+- Authorization
+- Rate Limiting
