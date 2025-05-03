@@ -69,3 +69,13 @@ Property Management: Develop features for property listing creation, updates, an
 - Bookings
 - Reviews
 - Payments
+
+## Feature Breakdown
+
+- User Management: Implementing a secure system for user registration, authentication, and profile management.
+- Property Management: Developing features for property listing creation, updates, and retrieval.
+- Booking System: Creating a booking mechanism for users to reserve properties and manage booking details.
+- Payment Processing: Integrating a payment system to handle transactions and recording payment details.
+- Review System: Allowing users to leave reviews and ratings for properties.
+- Data Optimization: Ensuring efficient data retrieval and storage through database optimizations.
+🛠️ Features Overview
