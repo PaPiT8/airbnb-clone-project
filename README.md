@@ -84,3 +84,8 @@ Property Management: Develop features for property listing creation, updates, an
 - Authentication
 - Authorization
 - Rate Limiting
+  
+## CI/CD Pipeline
+
+- Github Actions: Used for the continous Integration and Continous Delievery of our app. It ensures that code can be seemlessly updated in the repository and rollback can be done when necessary.
+- Docker: Can be used for containerization of our apps and other packages necessary to keep our apps running
